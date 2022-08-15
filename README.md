@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Splash Wallpaper</h1>
-<p style="text-align:center;"><img src="https://i.ibb.co/RYRz0Nh/launcher-icon.png" width="250" height="250/"></p>
+<center><img src="https://i.ibb.co/RYRz0Nh/launcher-icon.png" width="250" height="250/"></center>
 
 
 <p id="description" align="center">An Android Project Based on Kotlin</p>
