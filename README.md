@@ -28,9 +28,9 @@
 
 <h3>💡 Light Mode</h3>
 
-<img src="https://i.ibb.co/yqsyCQ7/Screenshot-2022-08-15-12-50-52-19-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/GPRFzwW/Screenshot-2022-08-15-12-50-56-47-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/VVM0hCM/Screenshot-2022-08-15-12-51-04-87-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
+<img src="https://i.ibb.co/M5x1xpy/Screenshot-2022-08-15-13-47-27-52-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/Gd03zK1/Screenshot-2022-08-15-13-47-33-10-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/LQ8YRCv/Screenshot-2022-08-15-13-47-36-77-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">
 
-<img src="https://i.ibb.co/rpTRbtm/Screenshot-2022-08-15-12-51-13-69-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/mtmryHW/Screenshot-2022-08-15-12-51-24-35-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/xjRg8Gq/Screenshot-2022-08-15-13-14-28-20-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
+<img src="https://i.ibb.co/pPKMf3N/Screenshot-2022-08-15-13-47-39-76-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/Q6bHBRX/Screenshot-2022-08-15-13-47-42-86-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/VgjQJC5/Screenshot-2022-08-15-13-47-44-96-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">
   
 <h2>💻 Built with</h2>
 
