@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "840012857860",
+    "project_id": "my-first-wallpaper-app-7cee6",
+    "storage_bucket": "my-first-wallpaper-app-7cee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840012857860:android:215957fa63709f4eed2b51",
+        "android_client_info": {
+          "package_name": "com.bunny.splashwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840012857860-lf8ubfpu3ibmdgoj2rnnhljkujdnai26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAbyYHKr_WsOeJP45K00u0MQiQ21XqTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840012857860-lf8ubfpu3ibmdgoj2rnnhljkujdnai26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840012857860:android:0cb988cf8cf0a1f1ed2b51",
+        "android_client_info": {
+          "package_name": "com.bunny.splashwallpaperadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840012857860-lf8ubfpu3ibmdgoj2rnnhljkujdnai26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAbyYHKr_WsOeJP45K00u0MQiQ21XqTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840012857860-lf8ubfpu3ibmdgoj2rnnhljkujdnai26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

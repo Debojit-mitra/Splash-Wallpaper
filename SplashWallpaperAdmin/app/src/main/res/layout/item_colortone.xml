@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/item_Card"
+        android:layout_width="145sp"
+        android:layout_height="145sp"
+        android:layout_margin="7dp"
+        app:cardCornerRadius="10dp"
+        app:cardBackgroundColor="@color/main_background_black_white">
+
+        <ImageView
+            android:id="@+id/btnDelete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:elevation="25dp"
+            android:background="@drawable/delete_btn"
+            android:layout_margin="5dp"
+            android:layout_gravity="top|right">
+        </ImageView>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
