@@ -11,7 +11,6 @@
 
 <img src="https://i.ibb.co/Qdpw8y6/Screenshot-2022-08-15-12-46-48-54-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/5G8psYW/Screenshot-2022-08-15-12-46-52-36-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/Ltjfrqg/Screenshot-2022-08-15-12-48-09-23-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
-
 <img src="https://i.ibb.co/FKzZfL1/Screenshot-2022-08-15-12-47-38-55-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/YN2m2H9/Screenshot-2022-08-15-12-52-07-39-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/dQLyKqs/Screenshot-2022-08-15-13-10-49-65-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
 <h3>💡 Light Mode</h3>
@@ -21,6 +20,17 @@
 <img src="https://i.ibb.co/rpTRbtm/Screenshot-2022-08-15-12-51-13-69-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/mtmryHW/Screenshot-2022-08-15-12-51-24-35-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/xjRg8Gq/Screenshot-2022-08-15-13-14-28-20-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
 <h2>📸 Project Screenshots: Splash Wallpaper Admin App</h2>
+<h3>🌙 Dark Mode</h3>
+
+<img src="https://i.ibb.co/7bBMsm9/Screenshot-2022-08-15-13-45-59-05-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/Wg2yWhx/Screenshot-2022-08-15-13-46-03-44-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/W6wSYyS/Screenshot-2022-08-15-13-46-09-86-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">
+
+<img src="https://i.ibb.co/kKXRf5R/Screenshot-2022-08-15-13-46-12-93-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/jMKB8jZ/Screenshot-2022-08-15-13-46-19-80-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/HzP3dNn/Screenshot-2022-08-15-13-46-35-74-0dd76862ac903206c676df1e295d7d5d.jpg" alt="project-screenshot" width="250" height="550/">
+
+<h3>💡 Light Mode</h3>
+
+<img src="https://i.ibb.co/yqsyCQ7/Screenshot-2022-08-15-12-50-52-19-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/GPRFzwW/Screenshot-2022-08-15-12-50-56-47-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/VVM0hCM/Screenshot-2022-08-15-12-51-04-87-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
+
+<img src="https://i.ibb.co/rpTRbtm/Screenshot-2022-08-15-12-51-13-69-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/mtmryHW/Screenshot-2022-08-15-12-51-24-35-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/xjRg8Gq/Screenshot-2022-08-15-13-14-28-20-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
   
 <h2>💻 Built with</h2>
 
