@@ -7,16 +7,16 @@
 <h2>📸 Project Screenshots:</h2>
 <h3>🌙 Dark Mode</h3>
 
-<img src="https://i.ibb.co/Qdpw8y6/Screenshot-2022-08-15-12-46-48-54-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/5G8psYW/Screenshot-2022-08-15-12-46-52-36-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/Ltjfrqg/Screenshot-2022-08-15-12-48-09-23-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
+<img src="https://i.ibb.co/Qdpw8y6/Screenshot-2022-08-15-12-46-48-54-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/5G8psYW/Screenshot-2022-08-15-12-46-52-36-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/Ltjfrqg/Screenshot-2022-08-15-12-48-09-23-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
 
-<img src="https://i.ibb.co/FKzZfL1/Screenshot-2022-08-15-12-47-38-55-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/YN2m2H9/Screenshot-2022-08-15-12-52-07-39-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/dQLyKqs/Screenshot-2022-08-15-13-10-49-65-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
+<img src="https://i.ibb.co/FKzZfL1/Screenshot-2022-08-15-12-47-38-55-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/YN2m2H9/Screenshot-2022-08-15-12-52-07-39-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/dQLyKqs/Screenshot-2022-08-15-13-10-49-65-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
 <h3>💡 Light Mode</h3>
 
-<img src="https://i.ibb.co/yqsyCQ7/Screenshot-2022-08-15-12-50-52-19-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/GPRFzwW/Screenshot-2022-08-15-12-50-56-47-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/VVM0hCM/Screenshot-2022-08-15-12-51-04-87-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
+<img src="https://i.ibb.co/yqsyCQ7/Screenshot-2022-08-15-12-50-52-19-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/GPRFzwW/Screenshot-2022-08-15-12-50-56-47-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/VVM0hCM/Screenshot-2022-08-15-12-51-04-87-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
-<img src="https://i.ibb.co/rpTRbtm/Screenshot-2022-08-15-12-51-13-69-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/mtmryHW/Screenshot-2022-08-15-12-51-24-35-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">  <img src="https://i.ibb.co/xjRg8Gq/Screenshot-2022-08-15-13-14-28-20-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
+<img src="https://i.ibb.co/rpTRbtm/Screenshot-2022-08-15-12-51-13-69-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/mtmryHW/Screenshot-2022-08-15-12-51-24-35-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">  <img src="https://i.ibb.co/xjRg8Gq/Screenshot-2022-08-15-13-14-28-20-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="550/">
 
   
   
