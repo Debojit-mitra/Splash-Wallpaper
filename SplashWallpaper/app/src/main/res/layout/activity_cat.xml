@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CatActivity">
+
+    <TextView
+        android:id="@+id/catTitle"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="39dp"
+        android:text="Loading..."
+        android:fontFamily="@font/nunitobold"
+        android:textColor="@color/main_text_black_white"
+        android:shadowColor="@color/main_text_shadow_black_white"
+        android:shadowRadius="10"
+        android:shadowDy="5">
+    </TextView>
+    <TextView
+        android:id="@+id/catCount"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_below="@+id/catTitle"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:text="Checking total wallpapers available"
+        android:fontFamily="@font/nunitosemibold"
+        android:textColor="@color/download_text_black_white">
+
+    </TextView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/catRcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/catCount">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+
+</RelativeLayout>

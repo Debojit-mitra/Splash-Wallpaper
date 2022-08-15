@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FinalWallpaper">
+
+
+    <com.jsibbold.zoomage.ZoomageView
+        android:id="@+id/finalWallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:background="@drawable/loading"
+        app:zoomage_restrictBounds="false"
+        app:zoomage_animateOnReset="true"
+        app:zoomage_autoResetMode="UNDER"
+        app:zoomage_autoCenter="true"
+        app:zoomage_zoomable="true"
+        app:zoomage_translatable="true"
+        app:zoomage_minScale="0.6"
+        app:zoomage_maxScale="8">
+
+    </com.jsibbold.zoomage.ZoomageView>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="1000dp"
+        android:background="@drawable/bottom_shape"
+        android:elevation="12dp">
+
+        <ImageView
+            android:id="@+id/btnDownload"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="85dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/downloadbtn"
+            android:backgroundTint="@color/download_menu_black_white"></ImageView>
+
+        <ImageView
+            android:id="@+id/btnSetWallpaper"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="85dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/setwallpaperbtn"
+            android:backgroundTint="@color/download_menu_black_white"></ImageView>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

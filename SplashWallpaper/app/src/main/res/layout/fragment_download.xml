@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.DownloadFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="6dp"
+        android:background="@drawable/top_shape"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/textMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/nunitobold"
+            android:gravity="center"
+            android:shadowColor="@color/main_text_shadow_black_white"
+            android:shadowDy="5"
+            android:shadowRadius="10"
+            android:text="Downloaded"
+            android:textColor="@color/main_text_black_white"
+            android:textSize="38dp"
+            android:background="@drawable/top_shape"
+            android:elevation="6dp"
+            ></TextView>
+
+        <TextView
+            android:id="@+id/downloadCount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textMain"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/nunitosemibold"
+            android:text="Checking Downloaded Wallpapers"
+            android:textColor="@color/download_text_black_white"
+            android:textSize="20dp">
+
+        </TextView>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcvCollection"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/downloadCount"
+            android:layout_marginBottom="40dp"
+            android:layout_marginLeft="10dp">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>
