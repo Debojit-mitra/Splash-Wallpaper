@@ -6,9 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/Qdpw8y6/Screenshot-2022-08-15-12-46-48-54-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
-
-<img src="https://i.ibb.co/5G8psYW/Screenshot-2022-08-15-12-46-52-36-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
+<img src="https://i.ibb.co/Qdpw8y6/Screenshot-2022-08-15-12-46-48-54-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/"> <img src="https://i.ibb.co/5G8psYW/Screenshot-2022-08-15-12-46-52-36-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
 
 <img src="https://i.ibb.co/Ltjfrqg/Screenshot-2022-08-15-12-48-09-23-a76dbb7c7ce649f6a599159d1f1817d0.jpg" alt="project-screenshot" width="250" height="500/">
 
